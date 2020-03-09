@@ -1,5 +1,3 @@
-#bowen - fix shit
-
 import time
 import os
 import sys
